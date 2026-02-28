@@ -34,7 +34,8 @@ Below are the topics I covered in ordered to familarize with markdown language.
 ---
 
 This practice examples' template is cloned from [GitHub](https://github.com/simpledevio/markdown-exercises)
-# Learning-Markdown
+
+
 
 
 
